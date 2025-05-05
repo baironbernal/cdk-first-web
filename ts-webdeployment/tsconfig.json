@@ -9,6 +9,7 @@
     "strict": true,
     "noImplicitAny": true,
     "strictNullChecks": true,
+    "useUnknownInCatchVariables": false,
     "noImplicitThis": true,
     "alwaysStrict": true,
     "noUnusedLocals": false,
