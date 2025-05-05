@@ -1,0 +1,1 @@
+{"apiUrl":"https://${Token[TOKEN.58]}.execute-api.${Token[AWS.Region.12]}.${Token[AWS.URLSuffix.9]}/${Token[TOKEN.66]}/"}
